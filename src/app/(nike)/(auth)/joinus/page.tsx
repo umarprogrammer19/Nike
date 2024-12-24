@@ -16,12 +16,12 @@ const JoinUs = () => {
                     <input
                         type="email"
                         placeholder="Email address"
-                        className="w-full border border-gray-300 rounded-md px-4 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-black focus:outline-none"
+                        className="w-full border border-gray-300 rounded-md px-4 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-black"
                     />
                     <input
                         type="password"
                         placeholder="Password"
-                        className="w-full border border-gray-300 rounded-md px-4 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-black focus:outline-none"
+                        className="w-full border border-gray-300 rounded-md px-4 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-black"
                     />
                     <input
                         type="text"
@@ -31,21 +31,21 @@ const JoinUs = () => {
                     <input
                         type="text"
                         placeholder="Last Name"
-                        className="w-full border border-gray-300 rounded-md px-4 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-black focus:outline-none"
+                        className="w-full border border-gray-300 rounded-md px-4 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-black"
                     />
                     <div>
                         <input
                             type="date"
-                            className="w-full border border-gray-300 rounded-md px-4 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-black focus:outline-none"
+                            className="w-full border border-gray-300 rounded-md px-4 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-black"
                         />
                         <p className="text-xs text-gray-500 mt-1">
                             Get a Nike Member Reward every year on your Birthday.
                         </p>
                     </div>
                     <select
-                        className="w-full border border-gray-300 rounded-md px-4 py-2 text-sm text-gray-700 focus:outline-none focus:ring-2 focus:ring-black focus:outline-none"
+                        className="w-full border border-gray-300 rounded-md px-4 py-2 text-sm text-gray-700 focus:outline-none focus:ring-2 focus:ring-black"
                     >
-                        <option>India</option>
+                        <option>Pakistan</option>
                         <option>USA</option>
                         <option>UK</option>
                     </select>
